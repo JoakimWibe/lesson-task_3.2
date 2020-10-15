@@ -5,7 +5,7 @@ body{
 header{
     min-height: 200px;
     background-color: cornflowerblue;
-    padding-top: 75px;
+    margin: 0px;
 }
 
 h1{
@@ -14,5 +14,6 @@ h1{
     font-weight: bold;
     color: cornsilk;
     text-align: center;
+    padding-top: 100px;
 }
 
