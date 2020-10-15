@@ -22,8 +22,13 @@ h1{
 
 .item{
     margin: 5px;
+    flex: 1;
     padding: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: cornflowerblue;
     font-size: 32px;
+}
+
+.wider-item{
+    flex: 4;
 }
