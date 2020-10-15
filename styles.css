@@ -34,3 +34,8 @@ h1{
     color: cornflowerblue;
     font-size: 32px;
 }
+
+footer{
+    max-height: 200px;
+    background-color: cornflowerblue;
+}
