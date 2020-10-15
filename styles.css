@@ -16,4 +16,13 @@ h1{
     padding-top: 75px;
 }
 
+.container{
+    display: flex;
+}
 
+.item{
+    margin: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cornflowerblue;
+    font-size: 32px;
+}
