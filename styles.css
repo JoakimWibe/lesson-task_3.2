@@ -18,6 +18,7 @@ h1{
 
 .container{
     display: flex;
+    flex-direction: column;
 }
 
 .item{
@@ -27,8 +28,4 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: cornflowerblue;
     font-size: 32px;
-}
-
-.wider-item{
-    flex: 4;
 }
