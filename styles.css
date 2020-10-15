@@ -16,3 +16,7 @@ h1{
     padding-top: 75px;
 }
 
+ul{
+    display: flex;
+}
+
