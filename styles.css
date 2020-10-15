@@ -3,14 +3,16 @@
     padding: 0px;
 }
 
+body{
+    background-color: cornsilk;
+}
+
 header{
     min-height: 200px;
     background-color: cornflowerblue;
 }
 
-main{
-    background-color: cornsilk;
-}
+
 
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -33,9 +35,4 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: cornflowerblue;
     font-size: 32px;
-}
-
-footer{
-    max-height: 200px;
-    background-color: cornflowerblue;
 }
