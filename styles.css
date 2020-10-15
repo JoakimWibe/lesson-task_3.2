@@ -1,12 +1,15 @@
-body{
+html, body{
     margin: 0px;
     padding: 0px;
-    background-color: cornsilk;
 }
 
 header{
     min-height: 200px;
     background-color: cornflowerblue;
+}
+
+main{
+    background-color: cornsilk;
 }
 
 h1{
